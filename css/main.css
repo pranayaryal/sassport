@@ -83,6 +83,7 @@ nav li {
 nav a {
   font-weight:800;
   padding:15px 10px;
+  font-family:#fff;
 }
 
 
@@ -197,6 +198,7 @@ header {
 
 /*nav background on mobile devices */
 nav {
+ color:#fff;
  background:#599a68; 
 }
 

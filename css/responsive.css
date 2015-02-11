@@ -6,11 +6,14 @@
   #primary {
     width:50%;
     float:left;
+    
+    
   }
   
   #secondary {
     width:40%;
     float:right;
+    
   }
   
   
@@ -42,7 +45,8 @@
     ****************/  
   
   nav {
-    background:none;
+    
+    background:none
     float:right;
     font-size:1.125em;
     margin-right:5%;
